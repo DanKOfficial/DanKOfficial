@@ -3,7 +3,7 @@ Hello, I am DanK. This is my new GitHub account, after my old one (DanK-Official
 
 Here are some things about me:
 1. I am currently learning JavaScript, Java and <s>Script</s>- I mean C.
-2. I like Markdown. I mean, I really enjoy using Markdown to make things happen .
+2. I like Markdown. I mean, I really enjoy using Markdown to document things.
 3. I have found a LOT of glitches in Roblox, from magnetism to making players lighter.
 4. I speak 3 languages: English, Español (Latin American) and فارسی (just a little bit).
 5. I live in Houston. Yes, the weather is very dynamic and yes, it is very popular.
